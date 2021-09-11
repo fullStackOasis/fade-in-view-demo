@@ -8,4 +8,6 @@ The app uses an Activity that hosts a single Fragment. The animation occurs in t
 
 [You can view a video that demos the behavior on YouTube](https://youtu.be/C3sljO0zgec).
 
+Thanks to [Natali Navytka](https://unsplash.com/photos/zlVfk0Zkv90) for the latte art!
+
 [Documentation is available here](https://developer.android.com/training/transitions).
