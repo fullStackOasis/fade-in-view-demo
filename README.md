@@ -11,3 +11,8 @@ The app uses an Activity that hosts a single Fragment. The animation occurs in t
 Thanks to [Natali Navytka](https://unsplash.com/photos/zlVfk0Zkv90) for the latte art!
 
 [Documentation is available here](https://developer.android.com/training/transitions).
+
+Here's the animation! Thanks to convertio.co:
+
+<img src="https://user-images.githubusercontent.com/59945095/132962165-06109859-a6f3-4471-b96d-a9f9cdb3274e.gif" height=600/>
+
